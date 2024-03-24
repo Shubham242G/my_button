@@ -1,0 +1,26 @@
+/* Button.css */
+.button {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .icon {
+    margin-right: 5px;
+  }
+  
+  .default {
+    background-color: transparent;
+    color: green;
+  }
+  
+  .neutral {
+    background-color: lightgrey;
+    color: black;
+  }
+  
+  .reverse {
+    background-color: black;
+    color: white;
+  }
